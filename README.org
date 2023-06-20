@@ -1,0 +1,9 @@
+* cl-git
+
+A Common Lisp wrapper around the libgit2 library.
+
+|---------+----------------------------------------------------------|
+| source  | file:https://git.sr.ht/~rsl/cl-git/archive/v2.1.0.tar.gz |
+| version | 2.1.0                                                    |
+| systems | cl-git                                                   |
+|---------+----------------------------------------------------------|
